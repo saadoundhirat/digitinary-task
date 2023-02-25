@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@": ["./src"],
+      "@history*": ["./src/@history"],
+      "@lodash": ["./src/@lodash"],
+      "@mock-api": ["./src/@mock-api"],
+      "@digitinary": ["./src/@digitinary"]
+    }
+  }
+}
